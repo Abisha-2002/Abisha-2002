@@ -149,22 +149,6 @@ https://github.com/Abisha71/cv-generator
 
 ---
 
-
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abisha71&theme=tokyo-night"/>
-
-</p>
-
----
-
-
-
-
 # 🛠 Languages
 
 <p align="center">
