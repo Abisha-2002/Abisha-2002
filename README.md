@@ -4,7 +4,6 @@
 🎓 BSc (Hons) Information Technology Undergraduate <br>
 💻 Full Stack Developer <br>
 🤖 AI & Machine Learning Enthusiast <br>
-🇱🇰 Sri Lanka
 </h3>
 
 <p align="center">
